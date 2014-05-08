@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>TPC, 8 dígitos</item>
+		<item>TPC, 6 dígitos</item>
+		<item>TPC, 4 dígitos</item>
+		<item>mMEC, 2 dígitos</item>
+	</string-array>
+
+</resources>
